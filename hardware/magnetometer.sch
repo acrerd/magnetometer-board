@@ -36,7 +36,7 @@ encoding utf-8
 Sheet 1 1
 Title "Magnetometer board"
 Date "2017-10-13"
-Rev "A"
+Rev "1"
 Comp "University of Glasgow"
 Comment1 "Sean Leavey"
 Comment2 "sean.leavey@ligo.org"
